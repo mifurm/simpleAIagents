@@ -33,3 +33,7 @@ Instruction Prompt: Create a sales offer for the enterprise customer showing the
 ## Connect two agents together
 
 Come back to first agent, go to Connected Agents, then add Sales Agent naming the connection: "sales_offer'
+
+# Check if the first agent will execute the second one
+Give me an offer for a customer, to show all the products, which can increase sales by 20%. Make is customer ready. 
+
